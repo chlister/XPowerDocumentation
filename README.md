@@ -1,6 +1,4 @@
-# XPowerDocumentation
-
-#Læsevejledning
+# Læsevejledning
 Dette repository indeholder vores svendeforløbs dokumentation. 
 Under fanen 'Wiki' finder du forskellige elementer. Disse forklares herunder:
 
