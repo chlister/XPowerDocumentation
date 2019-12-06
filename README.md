@@ -1,8 +1,8 @@
 # Læsevejledning
-Dette repository indeholder vores svendeforløbs dokumentation. 
-Under fanen 'Wiki' finder du forskellige elementer. Disse forklares herunder:
+Dette repository indeholder billeder fra svendeforløbet ZBC Ringsted 2019.
 
+Her finder du:
+* Diagrams
+  * Pakkediagrammer
 * Network
-* XHomeController
-* XHomeRemote
-* Rapporter
+  * Netværkskonfiguration
